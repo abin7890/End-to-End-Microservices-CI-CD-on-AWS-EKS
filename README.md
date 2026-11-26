@@ -197,7 +197,7 @@ The main branch contains the Kubernetes deployment workflow, while individual mi
 
 ### successful Jenkins Multibranch Pipeline
 
-<img src="screenshots/multibranch.pippipeline.png" width="450">
+<img src="screenshots/multibranch.pipipeline.png" width="450">
 
 ### Docker Hub Images
 
