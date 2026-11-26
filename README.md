@@ -201,7 +201,7 @@ The main branch contains the Kubernetes deployment workflow, while individual mi
 
 ### Docker Hub Images
 
-<img src="screenshots/docker-images" width="450">
+<img src="screenshots/docker-images.png" width="450">
 
 ### Kubernetes Pods
 
@@ -214,7 +214,7 @@ The main branch contains the Kubernetes deployment workflow, while individual mi
 ### E-Commerce Application
 
 <img src="screenshots/app.ui.png" width="450">
-" width="450">
+
 
 
 ## Challenges and Troubleshooting
