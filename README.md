@@ -197,7 +197,8 @@ The main branch contains the Kubernetes deployment workflow, while individual mi
 
 ### Jenkins Multibranch Pipeline
 
-![Jenkins Multibranch Pipeline](screenshots/jenkins-multibranch.png)
+![Jenkins Multibranch Pipeline](screenshots/multibranch.pipipeline.png
+)
 
 ### Successful CI/CD Pipeline
 
