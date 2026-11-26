@@ -195,36 +195,27 @@ The main branch contains the Kubernetes deployment workflow, while individual mi
 
 ## Project Screenshots
 
-### Jenkins Multibranch Pipeline
+### successful Jenkins Multibranch Pipeline
 
-![Jenkins Multibranch Pipeline](screenshots/multibranch.pipipeline.png
-)
-
-### Successful CI/CD Pipeline
-
-![Successful Pipeline](screenshots/pipeline-success.png)
-
-### Amazon EKS Cluster
-
-![Amazon EKS](screenshots/eks-cluster.png)
+<img src="screenshots/multibranch.pippipeline.png" width="450">
 
 ### Docker Hub Images
 
-![Docker Hub](screenshots/dockerhub.png)
+<img src="screenshots/docker-images" width="450">
 
 ### Kubernetes Pods
 
-![Kubernetes Pods](screenshots/kubernetes-pods.png)
+<img src="screenshots/pods.png" width="450">
 
 ### Kubernetes Services
 
-![Kubernetes Services](screenshots/kubernetes-services.png)
+<img src="screenshots/service.png" width="450">
 
 ### E-Commerce Application
 
-![Application UI](screenshots/application-ui.png)
+<img src="screenshots/app.ui.png" width="450">
+" width="450">
 
----
 
 ## Challenges and Troubleshooting
 
